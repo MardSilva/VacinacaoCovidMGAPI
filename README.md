@@ -64,7 +64,7 @@ Ainda não foi possível gerar a documentação junto do Swagger. Como criei a v
 Sendo que um deles é o Enviroment e o outro é o arquivo em si do Postman com as coleções para que você possa realizar os callbacks necessários. Você também precisará editar as rotas caso tenha algum erro na chamada.
 
 
-## Contributing
+## Contribuindo
 Solicitações de pull request são bem-vindas. Para mudanças importantes, reporte-nos e sugira também a melhoria do código para que possamos aprovar a solicitação. Se você se sentir melhor, crie uma cópia e distribua esse projeto.
 
 
